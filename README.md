@@ -28,4 +28,4 @@ CineMagic application solves the problem of cinema ticket reservations. You can 
 * Entity Framework
 
 ####
-This project is my first Web application.
+This project is my first Web application. Check final documentation for CineMagic video.
