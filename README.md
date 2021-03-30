@@ -25,6 +25,7 @@ CineMagic application solves the problem of cinema ticket reservations. You can 
 * .NetCore
 * HTML
 * CSS
+* Entity Framework
 
 ####
 This project is my first Web application.
