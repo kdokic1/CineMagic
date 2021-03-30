@@ -14,7 +14,7 @@ CineMagic application solves the problem of cinema ticket reservations. You can 
 
 ## Features 
 
-* Checking movie projections 7 days in advance
+* Checking movie projections
 * Ticket reservation
 * Seat selection
 * CineCard payment
