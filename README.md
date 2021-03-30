@@ -1,5 +1,4 @@
 ![](images/logo_normalno_vol2.png)
-# Grupa4-CineMagic
 
 ## Contributors 
 - [Šahović Tarik](https://github.com/tsahovic1 "Github")
@@ -26,3 +25,6 @@ CineMagic application solves the problem of cinema ticket reservations. You can 
 * .NetCore
 * HTML
 * CSS
+
+####
+This project is my first Web application.
